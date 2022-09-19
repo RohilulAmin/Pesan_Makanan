@@ -1,0 +1,3 @@
+STORE "menu" with makanan
+IF "harga makanan" more than or equal "harga makanan a"
+    PRINT "Membeli makanan A"
